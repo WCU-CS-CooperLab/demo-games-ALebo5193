@@ -2,4 +2,4 @@
 A template repository to publish games
 
 ## CoinDash
-[Play CoinDash]('./player_scene/Coin_Dash.html')
+[Play CoinDash](https://wcu-cs-cooperlab.github.io/demo-games-ALebo5193/player_scene)
