@@ -4,12 +4,12 @@ A template repository to publish games
 ## Coin Dash
 [Play Coin Dash Phase 1](CoinDashP1/) 
 <br>
-[Play Coin Dash Phase 2](CoinDashP2/)
+[Play Coin Dash Phase 2](CoinDashP2/) [Read the WriteUp here](https://github.com/WCU-CS-CooperLab/gamedev-workbench-ALebo5193/blob/project-1/scratch-space/Write-up/Project-1.md)
 
 ## Space Rocks
 [Play Space Rocks Phase 1](SpaceRocksP1/) 
 <br>
-[Play Space Rocks Phase 2](SpaceRocksP2/)
+[Play Space Rocks Phase 2](SpaceRocksP2/) [Read the WriteUp here](https://github.com/WCU-CS-CooperLab/gamedev-workbench-ALebo5193/blob/project-2/README.md)
 
 ## 3D Mini Golf
 [Play 3D Mini Golf Phase 1](3DMiniGolfP1/) 
@@ -19,4 +19,5 @@ A template repository to publish games
 
 
 ## Infinite Flyer
-[Play Infinite Flyer Phase 1](InfiniteFlyerP1/) 
+[Play Infinite Flyer Phase 1](InfiniteFlyerP1/) <br>
+[Play Infinite Flyer Phase 2](InfiniteFlyerP2/) [Read the WriteUp here](https://github.com/WCU-CS-CooperLab/gamedev-workbench-ALebo5193/blob/project-3/README.md)
