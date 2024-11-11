@@ -20,4 +20,7 @@ A template repository to publish games
 
 ## Infinite Flyer
 [Play Infinite Flyer Phase 1](InfiniteFlyerP1/) <br>
-[Play Infinite Flyer Phase 2](InfiniteFlyerP2/) [Read the WriteUp here](https://github.com/WCU-CS-CooperLab/gamedev-workbench-ALebo5193/blob/project-3/README.md)
+[Play Infinite Flyer Phase 2](InfiniteFlyerP2/) [Read the WriteUp here](https://github.com/WCU-CS-CooperLab/gamedev-workbench-ALebo5193/blob/project-3/README.md)<br>
+
+## Hug Nugs
+[Play Hug Nugs](HugNugs/)
