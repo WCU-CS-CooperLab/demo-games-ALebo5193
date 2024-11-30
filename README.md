@@ -26,4 +26,4 @@ A template repository to publish games
 [Play Hug Nugs](HugNugs/)
 
 ## Bomblin Goblins (Bomberman Clone)
-[Download Bomblin Goblins](/) [Read the WriteUp here](https://github.com/WCU-CS-CooperLab/gamedev-workbench-ALebo5193/blob/project-4/scratch-space/Notes/CSC476_Markdown-Notes/Project%204.md)
+[Download Bomblin Goblins](https://github.com/WCU-CS-CooperLab/demo-games-ALebo5193/releases/tag/Project-4) [Read the WriteUp here](https://github.com/WCU-CS-CooperLab/gamedev-workbench-ALebo5193/blob/project-4/scratch-space/Notes/CSC476_Markdown-Notes/Project%204.md)
